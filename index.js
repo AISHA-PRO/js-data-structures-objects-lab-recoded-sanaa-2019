@@ -13,9 +13,9 @@ function destructivelyUpdateDriverWithKeyAndValue(driver, key , value){
   return driver;
 }
 
-function deleteFromDriverByKey(driver , key){
+function deleteFromDriverByKey(driver, key , value){
   
 }
-function destructivelyDeleteFromDriverByKey(){
+function destructivelyDeleteFromDriverByKey(driver, key , value){
   
 }
